@@ -1,0 +1,12 @@
+# folder ignore
+
+
+.settings/
+
+bin-debug/
+
+#file ignore
+
+.actionScriptProperties
+.project
+*.xml
