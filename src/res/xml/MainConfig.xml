@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+		<conf TITLE="newGame" URL="swf/newGame.swf" TYPE="MovieClip"/>
+	  	<conf TITLE="sounds" URL="swf/sounds.swf" TYPE="Sounds"/>
+	 	<conf TITLE="LevelsConfigFile" URL="xml/LevelsConfigFile.xml" TYPE="XML"/>	
+<!--	<conf TITLE="lobby" URL="swf/lobby.swf" TYPE="MovieClip"/> -->	
+<!--	<conf TITLE="score_panel" URL="swf/score_panel.swf" TYPE="MovieClip"/> -->
+<!--	<conf TITLE="popup" URL="swf/popup.swf" TYPE="MovieClip"/>	-->
+<!--	<conf TITLE="credits_tutorial" URL="swf/credits_tutorial.swf" TYPE="MovieClip"/> -->
+</config>
