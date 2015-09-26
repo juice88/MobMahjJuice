@@ -335,4 +335,111 @@
 			<numSelForScoreMoreSel>2</numSelForScoreMoreSel>
 		</level>
 	</game>
+	<game NUMBER = "5" NAME = "ЛІТЕРИ">
+		<level id = "0">
+			<elemNum>6</elemNum>								
+			<framesBeginNum>1</framesBeginNum>					
+			<framesNum>22</framesNum>							
+			<nameOfGameField>Field3x2</nameOfGameField>			
+			<elemName>ElementABC</elemName>					
+			<openElemLimit>2</openElemLimit>					
+			<showElemDelay>1000</showElemDelay>					
+			<minute>0</minute>									
+			<second>5</second>									
+			<scoreOneSel>5</scoreOneSel>						
+			<scoreMoreSel>10</scoreMoreSel>	
+			<scoreBonus>20</scoreBonus>					
+			<numSelForScoreMoreSel>2</numSelForScoreMoreSel>
+		</level>
+			<level id = "1">
+			<elemNum>8</elemNum>								
+			<framesBeginNum>1</framesBeginNum>					
+			<framesNum>22</framesNum>							
+			<nameOfGameField>Field4x2</nameOfGameField>			
+			<elemName>ElementABC</elemName>					
+			<openElemLimit>2</openElemLimit>					
+			<showElemDelay>2000</showElemDelay>					
+			<minute>0</minute>									
+			<second>7</second>									
+			<scoreOneSel>5</scoreOneSel>						
+			<scoreMoreSel>10</scoreMoreSel>	
+			<scoreBonus>30</scoreBonus>					
+			<numSelForScoreMoreSel>2</numSelForScoreMoreSel>
+		</level>
+		<level id = "2">
+			<elemNum>9</elemNum>								
+			<framesBeginNum>1</framesBeginNum>					
+			<framesNum>22</framesNum>							
+			<nameOfGameField>Field3x3</nameOfGameField>			
+			<elemName>ElementABC</elemName>					
+			<openElemLimit>3</openElemLimit>					
+			<showElemDelay>2000</showElemDelay>					
+			<minute>0</minute>									
+			<second>10</second>									
+			<scoreOneSel>10</scoreOneSel>						
+			<scoreMoreSel>15</scoreMoreSel>	
+			<scoreBonus>40</scoreBonus>					
+			<numSelForScoreMoreSel>2</numSelForScoreMoreSel>
+		</level>
+		<level id = "3">
+			<elemNum>12</elemNum>								
+			<framesBeginNum>1</framesBeginNum>					
+			<framesNum>22</framesNum>							
+			<nameOfGameField>Field4x3</nameOfGameField>			
+			<elemName>ElementABC</elemName>					
+			<openElemLimit>2</openElemLimit>					
+			<showElemDelay>2500</showElemDelay>					
+			<minute>0</minute>									
+			<second>15</second>									
+			<scoreOneSel>10</scoreOneSel>						
+			<scoreMoreSel>15</scoreMoreSel>	
+			<scoreBonus>30</scoreBonus>					
+			<numSelForScoreMoreSel>3</numSelForScoreMoreSel>
+		</level>
+		<level id = "4">
+			<elemNum>12</elemNum>								
+			<framesBeginNum>1</framesBeginNum>					
+			<framesNum>22</framesNum>							
+			<nameOfGameField>Field4x3</nameOfGameField>			
+			<elemName>ElementABC</elemName>					
+			<openElemLimit>3</openElemLimit>					
+			<showElemDelay>3500</showElemDelay>					
+			<minute>0</minute>									
+			<second>20</second>									
+			<scoreOneSel>10</scoreOneSel>						
+			<scoreMoreSel>25</scoreMoreSel>	
+			<scoreBonus>50</scoreBonus>					
+			<numSelForScoreMoreSel>2</numSelForScoreMoreSel>
+		</level>
+		<level id = "5">
+			<elemNum>16</elemNum>								
+			<framesBeginNum>1</framesBeginNum>					
+			<framesNum>22</framesNum>							
+			<nameOfGameField>Field4x4</nameOfGameField>			
+			<elemName>ElementABC</elemName>					
+			<openElemLimit>2</openElemLimit>					
+			<showElemDelay>3000</showElemDelay>					
+			<minute>0</minute>									
+			<second>25</second>									
+			<scoreOneSel>15</scoreOneSel>						
+			<scoreMoreSel>30</scoreMoreSel>	
+			<scoreBonus>75</scoreBonus>					
+			<numSelForScoreMoreSel>3</numSelForScoreMoreSel>
+		</level>
+		<level id = "6">
+			<elemNum>20</elemNum>								
+			<framesBeginNum>1</framesBeginNum>					
+			<framesNum>22</framesNum>							
+			<nameOfGameField>Field5x4</nameOfGameField>			
+			<elemName>ElementABC</elemName>					
+			<openElemLimit>2</openElemLimit>					
+			<showElemDelay>4000</showElemDelay>					
+			<minute>0</minute>									
+			<second>30</second>									
+			<scoreOneSel>20</scoreOneSel>						
+			<scoreMoreSel>40</scoreMoreSel>	
+			<scoreBonus>100</scoreBonus>					
+			<numSelForScoreMoreSel>3</numSelForScoreMoreSel>
+		</level>
+	</game>
 </levelsList>
